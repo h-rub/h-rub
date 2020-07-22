@@ -21,7 +21,7 @@ Hi there, I'm **Hever Rubio**, a **Mechatronics Engineering student** 🚀 from 
 - 💻 I'm currently teaching programming in LoopGk and write in the blog
 - 🌱 I’m currently learning NodeJs; 
 - 🤔 My interests are cloud computing, computer vision, and IA;
-- 💼 I’m pursuing a Bachelor's degree in Mechatronics Engineering;
+- 💼 I’m pursuing a Engineer's degree in Mechatronics Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rubio@loopgk.com to reach me.
 
