@@ -38,3 +38,7 @@ Hi there, I'm **Hever Rubio**, a **Mechatronics Engineering student** 🚀 from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Hever's github stats](https://github-readme-stats.vercel.app/api?username=h-rub&show_icons=true&hide_border=true)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="heverrubio"><a class="LI-simple-link" href='https://mx.linkedin.com/in/heverrubio?trk=profile-badge'>Hever de Jesus Rubio Marin</a></div>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
