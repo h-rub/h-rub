@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi there, I'm **Hever Rubio**, a **Mechatronics Engineering student** 🚀 from México, currently, I'm CEO from <a href="https://loopgk.com">LoopGk</a>
+Hi there, I'm **Hever Rubio**, a **Mechatronics Engineering student** 🚀 from México, currently, I'm CEO from <a href="https://loopgk.com">LoopGk</a> and Chief Architect at <a href="https://www.linkedin.com/company/syncronik-info-solutions/">Syncronik Info Solutions</a> 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
