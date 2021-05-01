@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi there, I'm **Hever Rubio**, a **Mechatronics Engineering and Software Developer** 🚀 from México, currently, I'm CEO from <a href="https://loopgk.com">LoopGk</a> and Chief Architect at <a href="https://www.linkedin.com/company/syncronik-info-solutions/">Syncronik Info Solutions</a> 
+Hi there, I'm **Hever Rubio**, a **Mechatronics Engineering and Software Developer** 🚀 from México, currently, I'm CEO from <a href="https://loopgk.com">LoopGk</a> and Chief Solutions Architect at <a href="https://www.linkedin.com/company/syncronik-info-solutions/">Syncronik Info Solutions</a> 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
