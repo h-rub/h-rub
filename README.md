@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi there, I'm **Hever Rubio**, a **Mechatronics Engineer and Software Developer** 🚀 from México, currently, I'm CEO from <a href="https://loopgk.com">LoopGk</a> and Chief Solutions Architect at <a href="https://www.linkedin.com/company/syncronik-info-solutions/">Syncronik Info Solutions</a> 
+Hi there, I'm **Hever Rubio**, a **Mechatronics Engineer and Software Developer** 🚀 from México, currently, I'm CEO from <a href="https://loopgk.space">LoopGk</a> and Chief Solutions Architect at <a href="https://www.linkedin.com/company/syncronik-info-solutions/">Syncronik Info Solutions</a> 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -23,7 +23,7 @@ Hi there, I'm **Hever Rubio**, a **Mechatronics Engineer and Software Developer*
 - 🤔 My interests are cloud computing, computer vision, and IA;
 - 💼 I’m pursuing a Engineer's degree in Mechatronics Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rubio@loopgk.com to reach me.
+- 📫 Please email via hever.rubio.marin@gmail.com to reach me.
 
 
 **Languages and Tools:**  
