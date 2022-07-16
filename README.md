@@ -19,9 +19,6 @@ Hi there, I'm **Hever Rubio**, a **Mechatronics Engineer and Software Developer*
 **Talking about Personal Stuffs:**
 
 - 💻 I'm currently teaching programming in LoopGk.
-- 🌱 I’m currently learning Data Science; 
-- 🤔 My interests are cloud computing, computer vision, and IA;
-- 💼 I’m pursuing a Engineer's degree in Mechatronics Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via hever.rubio.marin@gmail.com to reach me.
 
