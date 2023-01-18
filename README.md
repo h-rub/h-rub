@@ -11,11 +11,3 @@
 </a>
 <br />
 <br />
-
-Hi there, I'm **Hever Rubio**, a **Mechatronics Engineer and Software Developer** 🚀 from México, currently, I'm CEO from <a href="https://loopgk.space">LoopGk</a> and Chief Solutions Architect at <a href="https://www.linkedin.com/company/syncronik-info-solutions/">Syncronik Info Solutions</a> 
-
-**Talking about Personal Stuffs:**
-
-- 💻 I'm currently teaching programming in LoopGk.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via hever.rubio.marin@gmail.com to reach me.
